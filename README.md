@@ -1,2 +1,2 @@
 # Learning_materials
-学习资料
+本项目用来存储学习资料
